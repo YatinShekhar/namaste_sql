@@ -15,4 +15,4 @@ Project | Topic | Timeline | Status
 
 # Certificate of Completion
 
-[Think SQL: Zero to Hero](https://github.com/YatinShekhar/namaste_sql/blob/main/certificate_of_completion.png) (Issued: Jan 2024)
+* [Think SQL: Zero to Hero](https://github.com/YatinShekhar/namaste_sql/blob/main/certificate_of_completion.png) (Issued: Jan 2024)
